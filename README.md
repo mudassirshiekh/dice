@@ -1,4 +1,5 @@
 DiceDB
+#By<Mudassir Alam>
 ===
 
 <a href="https://dicedb.io">![slatedb.io](https://img.shields.io/badge/site-dicedb.io-00A1FF?style=flat-square)</a>
