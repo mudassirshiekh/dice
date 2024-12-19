@@ -196,6 +196,7 @@ The Code Contribution Guidelines are published at [CONTRIBUTING/README.md](CONTR
 Contributors can join the [Discord Server](https://discord.gg/6r8uXWtXh7) for quick collaboration.
 
 ## Contributors
+## By Mudassir Alam
 
 <a href = "https://github.com/dicedb/dice/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=dicedb/dice"/>
